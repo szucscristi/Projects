@@ -1,0 +1,76 @@
+.textDespreNoi {
+    position:absolute;
+    font-style:Arial;
+    font-size:36px;
+    right:45%;
+    top:10%;
+    font-weight:bold;
+    text-decoration:underline;
+}
+.textDespreNoi2 {
+    position:absolute;
+    font-style:Arial;
+    font-size:36px;
+    right:39%;
+    top:20%;
+    font-weight:bold;
+}
+.textDespreNoi3 {
+    position:absolute;
+    font-style:Arial;
+    font-size:36px;
+    font-weight:bold;
+    top:0%;
+    text-align:center;
+    margin:15%;
+}
+.textDespreNoi4 {
+    position:absolute;
+    font-style:Arial;
+    font-size:36px;
+    right:40%;
+    top:45%;
+    font-weight:bold; 
+}
+.textDespreNoi5 {
+    position:absolute;
+    font-style:Arial;
+    font-size:36px;
+    top:35%;
+    margin:15%;
+    text-align:center;
+}
+.textDespreNoi6 {
+    position:absolute;
+    font-style:Arial;
+    font-size:36px;
+    top:50%;
+    margin:15%;
+    text-align:center;
+}
+.textDespreNoi7 {
+    position:absolute;
+    font-style:Arial;
+    font-size:36px;
+    top:60%;
+    margin:15%;
+    text-align:center;
+}
+.textAnsambluriRezidentiale{
+    position:absolute;
+    font-style:Arial;
+    font-size:36px;
+    top:10%;
+    left:38%;
+    text-align:center;
+    font-weight:bold;
+}
+.textAgentii{
+    position:absolute;
+    font-style:Arial;
+    font-size:36px;
+    top:10%;
+    left:40%;
+    text-align:center;
+    font-weight:bold;
+}
