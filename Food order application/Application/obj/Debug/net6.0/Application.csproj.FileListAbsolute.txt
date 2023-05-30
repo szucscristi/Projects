@@ -1,0 +1,54 @@
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\bin\Debug\net6.0\Application.exe
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\bin\Debug\net6.0\Application.dll
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\bin\Debug\net6.0\Entities.dll
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\bin\Debug\net6.0\Entities.pdb
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\obj\Debug\net6.0\Application.dll
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Desktop\Internship Application\Application\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\bin\Debug\net6.0\Application.exe
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\bin\Debug\net6.0\Application.dll
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\bin\Debug\net6.0\Entities.dll
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\bin\Debug\net6.0\Entities.pdb
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\obj\Debug\net6.0\Application.dll
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Application\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\bin\Debug\net6.0\Application.exe
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\bin\Debug\net6.0\Application.dll
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\bin\Debug\net6.0\Entities.dll
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\bin\Debug\net6.0\Entities.pdb
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\obj\Debug\net6.0\Application.dll
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Desktop\InternshipApp\Food order application\Application\obj\Debug\net6.0\ref\Application.dll

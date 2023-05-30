@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<restaurantsAndMenus>
+
+	<Restaurant>
+		<Name>Mediterana restaurant</Name>
+		<OpeningTime>10:00</OpeningTime>
+		<ClosingTime>22:00</ClosingTime>
+		<MinimumOrder>20</MinimumOrder>
+		<StandardDeliveryMaxDistance>15</StandardDeliveryMaxDistance>
+		<StandardDeliveryPrice>0</StandardDeliveryPrice>
+		<ExtraDeliveryFee>1</ExtraDeliveryFee>
+
+		<Menu>
+			<MenuItem>
+				<Name>Beef Burger</Name>
+				<Description>beef tenderloin, bun, tomatoes, iceberg salad, pickled cucumbers, cheese, mayonnaise, ketchup, and straw potatoes</Description>
+				<Price>10</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Rossini beef tenderloin</Name>
+				<Description>New Zealand moss, goose liver, mushrooms, honey, Spanish brown sauce, and golden potatoes</Description>
+				<Price>30</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Zuppa di pesce soup</Name>
+				<Description>calamari, mussels, baby octopus, cuttlefish, salmon, shrimp, garlic, white wine, basil, chilli, parsley, tomato sauce, olive oil</Description>
+				<Price>12</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Salmon fume con panna pizza</Name>
+				<Description>salmon fumé, tomato sauce, mozzarella, panna, cherry tomatoes, onions, and lemon</Description>
+				<Price>11</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Crudo e rucola pizza</Name>
+				<Description>Tomato sauce, grana, prosciutto crudo, arugula, and cherry tomatoes</Description>
+				<Price>8</Price>
+			</MenuItem>
+		</Menu>
+	</Restaurant>
+
+	<Restaurant>
+		<Name>Ecletic restaurant</Name>
+		<OpeningTime>11:00</OpeningTime>
+		<ClosingTime>23:00</ClosingTime>
+		<MinimumOrder>15</MinimumOrder>
+		<StandardDeliveryMaxDistance>10</StandardDeliveryMaxDistance>
+		<StandardDeliveryPrice>2</StandardDeliveryPrice>
+		<ExtraDeliveryFee>2</ExtraDeliveryFee>
+
+		<Menu>
+			<MenuItem>
+				<Name>Risotto ai frutti di mare</Name>
+				<Description>mussels, octopus, calamari, shrimp, garlic, white wine, olive oil, and butter</Description>
+				<Price>12</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Sea bass fillet with yogurt sauce</Name>
+				<Description>mix of salad, apple, yogurt sauce, and olive oil</Description>
+				<Price>15</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Moonfish</Name>
+				<Description>rice flavored with beetroot, green beans, avocado salsa, and pomegranate</Description>
+				<Price>18</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Nicoise salad</Name>
+				<Description>iceberg salad, cherry tomatoes, green beans, capers, egg, mustard, tuna fillet</Description>
+				<Price>10</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Pulled pork</Name>
+				<Description>homemade bun, coleslaw salad, pork, BBQ, mayonnaise, chilli sauce, straw potatoes</Description>
+				<Price>13</Price>
+			</MenuItem>
+		</Menu>
+	</Restaurant>
+
+	<Restaurant>
+		<Name>Via29 restaurant</Name>
+		<OpeningTime>9:00</OpeningTime>
+		<ClosingTime>21:00</ClosingTime>
+		<MinimumOrder>10</MinimumOrder>
+		<StandardDeliveryMaxDistance>8</StandardDeliveryMaxDistance>
+		<StandardDeliveryPrice>1</StandardDeliveryPrice>
+		<ExtraDeliveryFee>2</ExtraDeliveryFee>
+
+		<Menu>
+			<MenuItem>
+				<Name>Duck breast with quince sauce</Name>
+				<Description>duck breast, potatoes with rosemary, quince sauce, and carrot puree</Description>
+				<Price>15</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Crispy strips</Name>
+				<Description>chicken breast, corn flakes, garlic sauce, hot sauce, golden potatoes, and cole slaw salad</Description>
+				<Price>10</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Caesar salad</Name>
+				<Description>iceberg salad, chicken breast, croutons, Caesar dressing, bacon, and quail egg</Description>
+				<Price>8</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Greek salad</Name>
+				<Description>mix salad, red onion, olives, cucumber, tomatoes, feta cheese, and olive oil</Description>
+				<Price>9</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Carpaccio di vitello</Name>
+				<Description>marinated beef tenderloin, arugula salad, cherry tomatoes, and Parmesan</Description>
+				<Price>12</Price>
+			</MenuItem>
+		</Menu>
+	</Restaurant>
+
+	<Restaurant>
+		<Name>Piata9 restaurant</Name>
+		<OpeningTime>1:00</OpeningTime>
+		<ClosingTime>7:30</ClosingTime>
+		<MinimumOrder>11</MinimumOrder>
+		<StandardDeliveryMaxDistance>14</StandardDeliveryMaxDistance>
+		<StandardDeliveryPrice>3</StandardDeliveryPrice>
+		<ExtraDeliveryFee>1</ExtraDeliveryFee>
+
+		<Menu>
+			<MenuItem>
+				<Name>Tagliatelle with prawns</Name>
+				<Description>tagliatelle, prawns, green pesto, dehydrated tomatoes, and pine seeds</Description>
+				<Price>11</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Tagliatelle with porcini</Name>
+				<Description>tagliatelle, porcini, and creamy white sauce</Description>
+				<Price>9</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Wok pasta</Name>
+				<Description>Wok-style Asian pasta with beef tenderloin, carrots, broccoli, and asian sauce</Description>
+				<Price>12</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Taleggio e speck pizza</Name>
+				<Description>tomato sauce, mozzarella, taleggio, speck, cherry tomatoes, olive oil, and basil</Description>
+				<Price>8</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Quattro Staggioni pizza</Name>
+				<Description>tomato sauce, mozzarella, prosciutto cotto, mushrooms, corn, and olives</Description>
+				<Price>7</Price>
+			</MenuItem>
+		</Menu>
+	</Restaurant>
+
+	<Restaurant>
+		<Name>Rivo restaurant</Name>
+		<OpeningTime>00:30</OpeningTime>
+		<ClosingTime>23:30</ClosingTime>
+		<MinimumOrder>15</MinimumOrder>
+		<StandardDeliveryMaxDistance>25</StandardDeliveryMaxDistance>
+		<StandardDeliveryPrice>2</StandardDeliveryPrice>
+		<ExtraDeliveryFee>3</ExtraDeliveryFee>
+
+		<Menu>
+			<MenuItem>
+				<Name>Supreme Nachos</Name>
+				<Description>premium nachos, avocado, tomato salsa, pinto beans, cheddar cheese, cilantro, jalapeno, and chili</Description>
+				<Price>8</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Gallega octopuss</Name>
+				<Description>tender pieces of octopus, authentic Spanish smoked paprika, and baked potato slices</Description>
+				<Price>15</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Ajillo prawns</Name>
+				<Description>prawns with garlic, chili, and olive oil, baked in a clay pot</Description>
+				<Price>10</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>(Seasonal dish) Mykonian salad</Name>
+				<Description>watermelon, cherry tomatoes, Feta cheese, fresh peppermint, fresh chilli, lemon zest, croutons</Description>
+				<Price>7</Price>
+			</MenuItem>
+			<MenuItem>
+				<Name>Salmon, avocado, and cucumber salad</Name>
+				<Description>salmon, avocado, cucumber, lettuce, peppermint, lime juice, olive oil, and honey</Description>
+				<Price>10</Price>
+			</MenuItem>
+		</Menu>
+	</Restaurant>
+
+</restaurantsAndMenus>
